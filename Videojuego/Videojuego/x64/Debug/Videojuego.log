@@ -1,0 +1,3 @@
+﻿  Videojuego.cpp
+C:\Users\guillermoescher\OneDrive - Centre d'Estudis Monlau\Cosas de Monlau\M5\source\repos\Videojuego\Videojuego\Videojuego.cpp(23,15): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+  Videojuego.vcxproj -> C:\Users\guillermoescher\OneDrive - Centre d'Estudis Monlau\Cosas de Monlau\M5\source\repos\Videojuego\x64\Debug\Videojuego.exe

@@ -1,0 +1,4 @@
+﻿  VideojuegoConFunciones.cpp
+C:\Users\guillermoescher\OneDrive - Centre d'Estudis Monlau\Cosas de Monlau\M5\source\repos\VideojuegoConFunciones\VideojuegoConFunciones\VideojuegoConFunciones.cpp(151,15): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+C:\Users\guillermoescher\OneDrive - Centre d'Estudis Monlau\Cosas de Monlau\M5\source\repos\VideojuegoConFunciones\VideojuegoConFunciones\VideojuegoConFunciones.cpp(83): warning C4715: 'selectEnemy': no todas las rutas de acceso de control devuelven un valor
+  VideojuegoConFunciones.vcxproj -> C:\Users\guillermoescher\OneDrive - Centre d'Estudis Monlau\Cosas de Monlau\M5\source\repos\VideojuegoConFunciones\x64\Debug\VideojuegoConFunciones.exe
