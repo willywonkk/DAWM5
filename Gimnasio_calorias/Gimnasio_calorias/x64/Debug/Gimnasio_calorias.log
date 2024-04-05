@@ -1,0 +1,8 @@
+﻿  funcion.cpp
+C:\Users\guillermoescher\OneDrive - Centre d'Estudis Monlau\Cosas de Monlau\M5\source\repos\Gimnasio_calorias\Gimnasio_calorias\funcion.cpp(10,58): warning C4244: '=': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\guillermoescher\OneDrive - Centre d'Estudis Monlau\Cosas de Monlau\M5\source\repos\Gimnasio_calorias\Gimnasio_calorias\funcion.cpp(13,58): warning C4244: '=': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\guillermoescher\OneDrive - Centre d'Estudis Monlau\Cosas de Monlau\M5\source\repos\Gimnasio_calorias\Gimnasio_calorias\funcion.cpp(17,16): warning C4244: 'return': conversión de 'double' a 'int'; posible pérdida de datos
+  Gimnasio_calorias.cpp
+C:\Users\guillermoescher\OneDrive - Centre d'Estudis Monlau\Cosas de Monlau\M5\source\repos\Gimnasio_calorias\Gimnasio_calorias\Gimnasio_calorias.cpp(73,114): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+  Generando código...
+  Gimnasio_calorias.vcxproj -> C:\Users\guillermoescher\OneDrive - Centre d'Estudis Monlau\Cosas de Monlau\M5\source\repos\Gimnasio_calorias\x64\Debug\Gimnasio_calorias.exe
