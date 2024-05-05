@@ -1,0 +1,3 @@
+﻿  lanchas.cpp
+C:\Users\Guillermo\OneDrive - Centre d'Estudis Monlau\Cosas de Monlau\M5\source\repos\Lanchas_acuaticas\Lanchas_acuaticas\lanchas.cpp(58,15): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+  Lanchas_acuaticas.vcxproj -> C:\Users\Guillermo\OneDrive - Centre d'Estudis Monlau\Cosas de Monlau\M5\source\repos\Lanchas_acuaticas\x64\Debug\Lanchas_acuaticas.exe
